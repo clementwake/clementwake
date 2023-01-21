@@ -4,7 +4,6 @@
 
 - 📝 Interested In **OpenAI & ReactJS**
 
-
 <p align="left">
 </p>
 
